@@ -97,9 +97,11 @@
 \contentsline {table}{\numberline {IV.1}{\ignorespaces Komponen Modul \textit {Dropper}}}{30}{table.caption.9}%
 \contentsline {table}{\numberline {IV.2}{\ignorespaces Spesifikasi lingkungan uji}}{32}{table.caption.10}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {V.1}{\ignorespaces Spesifikasi lingkungan implementasi}}{36}{table.caption.12}%
-\contentsline {table}{\numberline {V.2}{\ignorespaces Metrik evaluasi}}{38}{table.caption.13}%
-\contentsline {table}{\numberline {V.3}{\ignorespaces Analisis risiko dan mitigasi}}{39}{table.caption.14}%
+\contentsline {table}{\numberline {V.1}{\ignorespaces Timeline implementasi prototipe}}{35}{table.5.1}%
+\contentsline {table}{\numberline {V.2}{\ignorespaces Alat dan bahan pendukung implementasi}}{36}{table.5.2}%
+\contentsline {table}{\numberline {V.3}{\ignorespaces Metrik evaluasi implementasi dropper}}{37}{table.5.3}%
+\contentsline {table}{\numberline {V.4}{\ignorespaces Kriteria keberhasilan prototipe dropper}}{38}{table.5.4}%
+\contentsline {table}{\numberline {V.5}{\ignorespaces Risiko implementasi dan mitigasi}}{40}{table.5.5}%
 \babel@toc {english}{}\relax 
 \babel@toc {indonesian}{}\relax 
 \babel@toc {english}{}\relax 

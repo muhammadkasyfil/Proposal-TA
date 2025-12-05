@@ -131,13 +131,13 @@
 \contentsline {subsection}{\numberline {IV.5.4}Tahap Eksekusi \textit {Fileless} (Proses 2.6 \& 2.7)}{34}{subsection.4.5.4}%
 \contentsline {chapter}{\numberline {V}RENCANA SELANJUTNYA}{35}{chapter.5}%
 \contentsline {section}{\numberline {V.1}Rencana Implementasi}{35}{section.5.1}%
-\contentsline {subsection}{\numberline {V.1.1}Pengembangan Komponen \textit {Dropper}}{35}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {V.1.2}Lingkungan Pengembangan}{36}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {V.1.1}Langkah-langkah Implementasi}{35}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {V.1.2}Alat yang Dibutuhkan}{36}{subsection.5.1.2}%
 \contentsline {section}{\numberline {V.2}Rencana Evaluasi}{37}{section.5.2}%
-\contentsline {subsection}{\numberline {V.2.1}Konfigurasi Sistem Pengujian}{37}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {V.2.2}Skenario Pengujian}{37}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {V.2.3}Metrik Evaluasi}{38}{subsection.5.2.3}%
-\contentsline {section}{\numberline {V.3}Analisis Risiko}{38}{section.5.3}%
+\contentsline {subsection}{\numberline {V.2.1}Metode Pengujian}{37}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {V.2.2}Metrik Evaluasi}{37}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {V.2.3}Kriteria Keberhasilan}{38}{subsection.5.2.3}%
+\contentsline {section}{\numberline {V.3}Analisis Risiko}{40}{section.5.3}%
 \babel@toc {english}{}\relax 
 \babel@toc {indonesian}{}\relax 
 \babel@toc {english}{}\relax 
