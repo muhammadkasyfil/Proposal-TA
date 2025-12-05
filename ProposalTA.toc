@@ -117,27 +117,26 @@
 \contentsline {paragraph}{\numberline {III.4.3.0.4}Langkah 4: Perhitungan Skor Komposit Akhir}{26}{paragraph.3.4.3.0.4}%
 \contentsline {subsection}{\numberline {III.4.4}Hasil Analisis Penentuan Solusi}{26}{subsection.3.4.4}%
 \contentsline {chapter}{\numberline {IV}DESAIN KONSEP SOLUSI}{28}{chapter.4}%
-\contentsline {section}{\numberline {IV.1}Desain Solusi}{28}{section.4.1}%
-\contentsline {section}{\numberline {IV.2}Tahapan Desain}{28}{section.4.2}%
-\contentsline {subsection}{\numberline {IV.2.1}Desain Artefak \textit {Dropper}}{29}{subsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {IV.2.1.1}Arsitektur Modul dan Fungsi \textit {Evasion}}{29}{subsubsection.4.2.1.1}%
-\contentsline {subsubsection}{\numberline {IV.2.1.2}Mekanisme Alur Logika \textit {Dropper}}{30}{subsubsection.4.2.1.2}%
-\contentsline {section}{\numberline {IV.3}Rancangan Lingkungan Pengujian}{31}{section.4.3}%
-\contentsline {section}{\numberline {IV.4}Spesifikasi Mesin Uji}{31}{section.4.4}%
-\contentsline {section}{\numberline {IV.5}Hasil Desain}{32}{section.4.5}%
-\contentsline {subsection}{\numberline {IV.5.1}Tahap Inisialisasi dan Dekripsi (Proses 2.1 \& 2.2)}{33}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {IV.5.2}Tahap Validasi Lingkungan / \textit {Anti-Analysis} (Proses 2.3)}{33}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {IV.5.3}Tahap Manajemen \textit {Payload} (Proses 2.4 \& 2.5)}{34}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {IV.5.4}Tahap Eksekusi \textit {Fileless} (Proses 2.6 \& 2.7)}{34}{subsection.4.5.4}%
-\contentsline {chapter}{\numberline {V}RENCANA SELANJUTNYA}{35}{chapter.5}%
-\contentsline {section}{\numberline {V.1}Rencana Implementasi}{35}{section.5.1}%
-\contentsline {subsection}{\numberline {V.1.1}Langkah-langkah Implementasi}{35}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {V.1.2}Alat yang Dibutuhkan}{36}{subsection.5.1.2}%
-\contentsline {section}{\numberline {V.2}Rencana Evaluasi}{37}{section.5.2}%
-\contentsline {subsection}{\numberline {V.2.1}Metode Pengujian}{37}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {V.2.2}Metrik Evaluasi}{37}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {V.2.3}Kriteria Keberhasilan}{38}{subsection.5.2.3}%
-\contentsline {section}{\numberline {V.3}Analisis Risiko}{40}{section.5.3}%
+\contentsline {section}{\numberline {IV.1}Diagram Konseptual Sistem}{28}{section.4.1}%
+\contentsline {subsection}{\numberline {IV.1.1}Sistem Sebelum (Before)}{28}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {IV.1.2}Sistem Sesudah (After)}{29}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {IV.1.3}Perbandingan Sistem Before dan After}{30}{subsection.4.1.3}%
+\contentsline {section}{\numberline {IV.2}Penjelasan Desain Solusi}{32}{section.4.2}%
+\contentsline {subsection}{\numberline {IV.2.1}Desain Inisialisasi dan Verifikasi}{32}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {IV.2.2}Desain Anti-Analysis (Environment Checking)}{32}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {IV.2.3}Desain In-Memory Execution (Fileless Loading)}{33}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {IV.2.4}Desain Komponen Modul Dropper}{33}{subsection.4.2.4}%
+\contentsline {section}{\numberline {IV.3}Rancangan Lingkungan Pengujian}{34}{section.4.3}%
+\contentsline {section}{\numberline {IV.4}Spesifikasi Mesin Uji}{35}{section.4.4}%
+\contentsline {chapter}{\numberline {V}RENCANA SELANJUTNYA}{38}{chapter.5}%
+\contentsline {section}{\numberline {V.1}Rencana Implementasi}{38}{section.5.1}%
+\contentsline {subsection}{\numberline {V.1.1}Langkah-langkah Implementasi}{38}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {V.1.2}Alat yang Dibutuhkan}{39}{subsection.5.1.2}%
+\contentsline {section}{\numberline {V.2}Rencana Evaluasi}{40}{section.5.2}%
+\contentsline {subsection}{\numberline {V.2.1}Metode Pengujian}{40}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {V.2.2}Metrik Evaluasi}{40}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {V.2.3}Kriteria Keberhasilan}{41}{subsection.5.2.3}%
+\contentsline {section}{\numberline {V.3}Analisis Risiko}{43}{section.5.3}%
 \babel@toc {english}{}\relax 
 \babel@toc {indonesian}{}\relax 
 \babel@toc {english}{}\relax 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.10.25)  5 DEC 2025 14:44
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.10.25)  5 DEC 2025 16:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1754,176 +1754,329 @@ Overfull \hbox (49.93193pt too wide) in paragraph at lines 199--208
 
 ) (Bab IV - Desain-Konsep-Solusi.tex [27]
 Bab IV.
+File: image/before.png Graphic file (type bmp)
+<image/before.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [28
 
-]
-Overfull \hbox (0.40945pt too wide) in paragraph at lines 20--21
-\TU/TimesNewRoman(0)/m/n/12 jawab untuk memastikan \TU/TimesNewRoman(0)/m/it/12
- spyware \TU/TimesNewRoman(0)/m/n/12 berhasil melewati pertahanan awal (\TU/Tim
-esNewRoman(0)/m/it/12 Initial Access\TU/TimesNewRoman(0)/m/n/12 )
+] [29]
+File: image/after.png Graphic file (type bmp)
+<image/after.png>
+
+Overfull \hbox (41.69043pt too wide) in alignment at lines 35--40
+ [] [] [] 
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(0)/b/n/12 Komponen Mo-
+Overfull \hbox (41.69043pt too wide) in alignment at lines 40--44
+ [] [] [] 
  []
 
 
-Overfull \hbox (5.56752pt too wide) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(0)/b/n/12 Bahasa/Teknologi| 
+Overfull \hbox (41.69043pt too wide) in alignment at lines 44--47
+ [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(0)/b/n/12 Fungsi Utama dalam
+Overfull \hbox (41.69043pt too wide) in alignment at lines 47--49
+ [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
-[]\TU/TimesNewRoman(0)/m/it/12 Packer \TU/TimesNewRoman(0)/m/n/12 (Pelin-
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+[]|\TU/TimesNewRoman(0)/m/it/12 Execution flow \TU/TimesNewRoman(0)/m/n/12 ter-
+\TU/TimesNewRoman(0)/m/it/12 instrumentasi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
-[]\TU/TimesNewRoman(0)/m/n/12 Melakukan \TU/TimesNewRoman(0)/m/it/12 packing
+Underfull \hbox (badness 1924) in paragraph at lines 50--51
+\TU/TimesNewRoman(0)/m/n/12 dengan \TU/TimesNewRoman(0)/m/it/12 full visibility
+ \TU/TimesNewRoman(0)/m/n/12 pada setiap
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
-\TU/TimesNewRoman(0)/m/n/12 (kompresi) dan enkripsi
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\TU/TimesNewRoman(0)/m/n/12 tahap dari \TU/TimesNewRoman(0)/m/it/12 initializat
+ion \TU/TimesNewRoman(0)/m/n/12 hingga
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 32--32
-\TU/TimesNewRoman(0)/m/n/12 terhadap berkas \TU/TimesNewRoman(0)/m/it/12 droppe
-r
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]|\TU/TimesNewRoman(0)/m/n/12 Jenis Malware
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-\TU/TimesNewRoman(0)/m/n/12 (Celah \TU/TimesNewRoman(0)/m/it/12 Signature-
+Underfull \hbox (badness 1484) in paragraph at lines 52--53
+\TU/TimesNewRoman(0)/m/it/12 vironment \TU/TimesNewRoman(0)/m/n/12 dan \TU/Time
+sNewRoman(0)/m/it/12 predictable condi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-[]\TU/TimesNewRoman(0)/m/it/12 Dropper Engine
+Underfull \hbox (badness 1303) in paragraph at lines 53--54
+\TU/TimesNewRoman(0)/m/n/12 lalui Sysmon, \TU/TimesNewRoman(0)/m/it/12 anti-mal
+ware logs\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 33--33
-[]\TU/TimesNewRoman(0)/m/n/12 Menjalankan alur logika:
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[]|\TU/TimesNewRoman(0)/m/it/12 Comprehensive\TU/TimesNewRoman(0)/m/n/12 , pene
+liti dapat
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-\TU/TimesNewRoman(0)/m/it/12 Unpack\TU/TimesNewRoman(0)/m/n/12 , \TU/TimesNewRo
-man(0)/m/it/12 Deobfuscate\TU/TimesNewRoman(0)/m/n/12 ,
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+\TU/TimesNewRoman(0)/m/n/12 mengidentifikasi tahap eksekusi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-\TU/TimesNewRoman(0)/m/n/12 (\TU/TimesNewRoman(0)/m/it/12 Obfuscation\TU/TimesN
-ewRoman(0)/m/n/12 ) &
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+\TU/TimesNewRoman(0)/m/n/12 spesifik mana yang terdeteksi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-\TU/TimesNewRoman(0)/m/n/12 CTQ-03 (Deteksi
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+\TU/TimesNewRoman(0)/m/n/12 atau lolos dari setiap produk
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 34--34
-[]\TU/TimesNewRoman(0)/m/n/12 Rust / Windows
+Underfull \hbox (badness 1769) in paragraph at lines 55--56
+\TU/TimesNewRoman(0)/m/it/12 cts\TU/TimesNewRoman(0)/m/n/12 ) dengan \TU/TimesN
+ewRoman(0)/m/it/12 temporal granularity
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 34--34
-\TU/TimesNewRoman(0)/m/n/12 langsung ke memori (\TU/TimesNewRoman(0)/m/it/12 fi
--
+Overfull \hbox (41.69043pt too wide) in alignment at lines 49--56
+ [] [] [] 
+ []
+
+[30] [31]
+Overfull \hbox (40.64557pt too wide) in paragraph at lines 69--70
+[]\TU/TimesNewRoman(0)/b/n/12 CPUID-based hypervisor detection \TU/TimesNewRoma
+n(0)/m/n/12 menggunakan instruksi \TU/lmtt/m/n/12 CPUID \TU/TimesNewRoman(0)/m/
+it/12 leaf \TU/lmtt/m/n/12 0x40000000
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 34--34
-\TU/TimesNewRoman(0)/m/it/12 leless\TU/TimesNewRoman(0)/m/n/12 ) tanpa menulis 
-ke
+Overfull \hbox (174.32426pt too wide) in paragraph at lines 70--71
+\TU/TimesNewRoman(0)/m/n/12 seperti VirtualBox, VMware, atau QEMU di jalur \TU/
+TimesNewRoman(0)/m/it/12 registry \TU/TimesNewRoman(0)/m/n/12 seperti \TU/lmtt/
+m/n/12 HKLM\SYSTEM\CurrentControlSet\Services
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\TU/TimesNewRoman(0)/m/it/12 Downloader-based
+Overfull \hbox (35.46759pt too wide) in paragraph at lines 71--72
+\TU/TimesNewRoman(0)/m/n/12 tuk menemukan \TU/TimesNewRoman(0)/m/it/12 process 
+names \TU/TimesNewRoman(0)/m/n/12 khas dari \TU/TimesNewRoman(0)/m/it/12 analys
+is tools \TU/TimesNewRoman(0)/m/n/12 populer seperti \TU/lmtt/m/n/12 procmon.ex
+e\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Overfull \hbox (47.99997pt too wide) in paragraph at lines 28--38
- [][] 
+Overfull \hbox (12.81845pt too wide) in paragraph at lines 73--74
+\TU/TimesNewRoman(0)/m/it/12 vironment Block\TU/TimesNewRoman(0)/m/n/12 ) flags
+ yang mengindikasikan \TU/TimesNewRoman(0)/m/it/12 debugger attachment\TU/Times
+NewRoman(0)/m/n/12 , serta \TU/TimesNewRoman(0)/m/it/12 checks
  []
 
-[29] [30]
-Underfull \hbox (badness 4531) in paragraph at lines 64--64
-[]\TU/TimesNewRoman(0)/m/n/12 Jaringan: \TU/TimesNewRoman(0)/m/it/12 Host-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
-\TU/TimesNewRoman(0)/m/n/12 an pengguna umum yang
- []
-
-
-Underfull \hbox (badness 5893) in paragraph at lines 64--65
-\TU/TimesNewRoman(0)/m/n/12 dows dipilih karena target
+[32]
+Overfull \hbox (80.59392pt too wide) in paragraph at lines 82--83
+\TU/TimesNewRoman(0)/m/n/12 mis menggunakan \TU/lmtt/m/n/12 VirtualAlloc \TU/Ti
+mesNewRoman(0)/m/n/12 dengan \TU/TimesNewRoman(0)/m/it/12 protections \TU/Times
+NewRoman(0)/m/n/12 yang appropriate (\TU/lmtt/m/n/12 PAGE_EXECUTE_READWRITE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-[]\TU/TimesNewRoman(0)/m/n/12 Server (Penye-
+Overfull \hbox (53.69086pt too wide) in alignment at lines 87--92
+ [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-[]\TU/TimesNewRoman(0)/m/it/12 Service\TU/TimesNewRoman(0)/m/n/12 : HT-
+Overfull \hbox (53.69086pt too wide) in alignment at lines 92--96
+ [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 65--66
-[]\TU/TimesNewRoman(0)/m/n/12 Berfungsi sebagai penyedia
+Overfull \hbox (53.69086pt too wide) in alignment at lines 96--99
+ [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 65--66
-\TU/TimesNewRoman(0)/m/it/12 payload \TU/TimesNewRoman(0)/m/n/12 (untuk proses 
-2.5)
+Overfull \hbox (53.69086pt too wide) in alignment at lines 99--101
+ [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 65--66
-\TU/TimesNewRoman(0)/m/n/12 dan penerima koneksi balik
+Underfull \hbox (badness 7221) in paragraph at lines 103--103
+[]|\TU/TimesNewRoman(0)/m/n/12 Code Unpacking dan
  []
 
 
-Underfull \hbox (badness 4036) in paragraph at lines 66--67
-[]\TU/TimesNewRoman(0)/m/n/12 Digunakan untuk memvali-
+Underfull \hbox (badness 3919) in paragraph at lines 103--104
+[]|\TU/TimesNewRoman(0)/m/it/12 Obfuscation bypass\TU/TimesNewRoman(0)/m/n/12 ,
+
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 66--67
-\TU/TimesNewRoman(0)/m/n/12 dasi apakah \TU/TimesNewRoman(0)/m/it/12 dropper \T
-U/TimesNewRoman(0)/m/n/12 benar-
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]|\TU/TimesNewRoman(0)/m/it/12 Anti-VM\TU/TimesNewRoman(0)/m/n/12 , \TU/TimesN
+ewRoman(0)/m/it/12 Anti-
  []
 
 
-Underfull \hbox (badness 5817) in paragraph at lines 67--67
-[]\TU/TimesNewRoman(0)/m/n/12 Berbagai produk komersial
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+\TU/TimesNewRoman(0)/m/it/12 Sandbox\TU/TimesNewRoman(0)/m/n/12 , \TU/TimesNewR
+oman(0)/m/it/12 Anti-
  []
 
 
-Overfull \hbox (7.54723pt too wide) in paragraph at lines 60--70
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]|\TU/TimesNewRoman(0)/m/n/12 Payload Decryption
  []
 
-[31]
-File: image/flow.png Graphic file (type bmp)
-<image/flow.png>
- [32] [33]) (Bab V - Rencana-Selanjutnya.tex [34]
+
+Underfull \hbox (badness 2181) in paragraph at lines 105--105
+\TU/TimesNewRoman(0)/m/n/12 enkripsi menggunakan AES-256
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 106--106
+[]|\TU/TimesNewRoman(0)/m/n/12 Mengalokasikan memori secara
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+[]|\TU/TimesNewRoman(0)/m/it/12 Fileless execution\TU/TimesNewRoman(0)/m/n/12 ,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+[]|\TU/TimesNewRoman(0)/m/n/12 Cleanup dan Self-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+[]|\TU/TimesNewRoman(0)/m/it/12 Non-persistence\TU/TimesNewRoman(0)/m/n/12 ,
+ []
+
+
+Overfull \hbox (53.69086pt too wide) in alignment at lines 101--108
+ [] [] [] [] 
+ []
+
+[33] [34]
+Overfull \hbox (3.03836pt too wide) in paragraph at lines 115--117
+[]\TU/TimesNewRoman(0)/m/it/12 Isolasi network \TU/TimesNewRoman(0)/m/n/12 dila
+kukan menggunakan \TU/TimesNewRoman(0)/m/it/12 virtual networking \TU/TimesNewR
+oman(0)/m/n/12 dengan konfigurasi \TU/TimesNewRoman(0)/m/it/12 host-
+ []
+
+
+Overfull \hbox (53.0718pt too wide) in alignment at lines 127--132
+ [] [] [] 
+ []
+
+
+Overfull \hbox (53.0718pt too wide) in alignment at lines 132--136
+ [] [] [] 
+ []
+
+
+Overfull \hbox (53.0718pt too wide) in alignment at lines 136--139
+ [] [] [] 
+ []
+
+
+Overfull \hbox (53.0718pt too wide) in alignment at lines 139--141
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 145--146
+[]|\TU/TimesNewRoman(0)/m/n/12 Untuk host OS, Rust \TU/TimesNewRoman(0)/m/it/12
+ toolchain\TU/TimesNewRoman(0)/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 145--146
+\TU/TimesNewRoman(0)/m/n/12 VirtualBox atau VMware, guest
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 147--147
+[]|\TU/TimesNewRoman(0)/m/n/12 VirtualBox 7.0 atau lebih atau
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 150--150
+\TU/TimesNewRoman(0)/m/n/12 lebih) atau Windows 11 (Build
+ []
+
+
+Underfull \hbox (badness 3323) in paragraph at lines 153--154
+[]|\TU/TimesNewRoman(0)/m/it/12 Space \TU/TimesNewRoman(0)/m/n/12 untuk OS, \TU
+/TimesNewRoman(0)/m/it/12 anti-malware\TU/TimesNewRoman(0)/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 155--156
+[]|\TU/TimesNewRoman(0)/m/n/12 Untuk merekam dan mengobse-
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 159--160
+[]|\TU/TimesNewRoman(0)/m/it/12 Alternative anti-malware \TU/TimesNewRoman(0)/m
+/n/12 dengan
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 160--160
+[]|\TU/TimesNewRoman(0)/m/n/12 McAfee Personal Security atau
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+[]|\TU/TimesNewRoman(0)/m/it/12 Commercial-grade anti-malware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\TU/TimesNewRoman(0)/m/n/12 dengan \TU/TimesNewRoman(0)/m/it/12 advanced behavi
+oral
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 163--164
+[]|\TU/TimesNewRoman(0)/m/n/12 Merekam \TU/TimesNewRoman(0)/m/it/12 process cre
+ation\TU/TimesNewRoman(0)/m/n/12 , \TU/TimesNewRoman(0)/m/it/12 file
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 164--164
+[]|\TU/TimesNewRoman(0)/m/it/12 Packet capture tools \TU/TimesNewRoman(0)/m/n/1
+2 (\TU/TimesNewRoman(0)/m/it/12 tcpdump
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 165--166
+[]|\TU/TimesNewRoman(0)/m/n/12 Kumpulkan \TU/TimesNewRoman(0)/m/it/12 logs \TU/
+TimesNewRoman(0)/m/n/12 dari Sysmon,
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 166--166
+[]|\TU/TimesNewRoman(0)/m/n/12 x64dbg, WinDbg, \TU/TimesNewRoman(0)/m/it/12 str
+ings\TU/TimesNewRoman(0)/m/n/12 , IDA
+ []
+
+
+Overfull \hbox (53.0718pt too wide) in alignment at lines 141--167
+ [] [] [] 
+ []
+
+[35] [36]) (Bab V - Rencana-Selanjutnya.tex [37]
 Bab V.
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
@@ -1985,7 +2138,7 @@ Overfull \hbox (19.5472pt too wide) in alignment at lines 28--36
  [] [] [] [] 
  []
 
-[35
+[38
 
 ]
 Overfull \hbox (35.99997pt too wide) in alignment at lines 47--52
@@ -2057,7 +2210,7 @@ Overfull \hbox (35.99997pt too wide) in alignment at lines 60--69
  [] [] [] 
  []
 
-[36]
+[39]
 Overfull \hbox (13.85674pt too wide) in alignment at lines 84--89
  [] [] [] [] 
  []
@@ -2147,7 +2300,7 @@ Overfull \hbox (13.85674pt too wide) in alignment at lines 97--105
  [] [] [] [] 
  []
 
-[37]
+[40]
 Overfull \hbox (25.23767pt too wide) in alignment at lines 116--121
  [] [] [] [] 
  []
@@ -2287,7 +2440,7 @@ Overfull \hbox (25.23767pt too wide) in alignment at lines 129--136
  [] [] [] [] 
  []
 
-[38]
+[41]
 Overfull \hbox (56.53589pt too wide) in alignment at lines 147--152
  [] [] [] [] 
  []
@@ -2412,7 +2565,7 @@ Overfull \hbox (56.53589pt too wide) in alignment at lines 160--167
  [] [] [] [] 
  []
 
-[39]) [40] [41]
+[42]) [43] [44]
 Overfull \hbox (12.85976pt too wide) in paragraph at lines 402--402
 \TU/TimesNewRoman(0)/m/n/12 threat Intelligence for Security Decision-Making: A
  Review and Research Agenda
@@ -2422,7 +2575,7 @@ Overfull \hbox (12.85976pt too wide) in paragraph at lines 402--402
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 382.
 See the caption package documentation for explanation.
 
-[42
+[45
 
 
 ] (ProposalTA.aux)
@@ -2435,7 +2588,7 @@ L3 programming layer <2024-01-04>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `ProposalTA.out' has not changed.
-(rerunfilecheck)             Checksum: D68896DEDD4F68CD00194B012C5B883F;10317.
+(rerunfilecheck)             Checksum: 611BD35A592B194FCC2E1ED74CC2CF54;10037.
 
 Package biblatex Warning: Please rerun LaTeX.
 
@@ -2444,12 +2597,12 @@ Package logreq Info: Writing requests to 'ProposalTA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31312 strings out of 409617
- 613731 string characters out of 5774012
- 1959116 words of memory out of 5000000
- 53070 multiletter control sequences out of 15000+600000
- 563290 words of font info for 82 fonts, out of 8000000 for 9000
+ 31326 strings out of 409617
+ 613934 string characters out of 5774012
+ 1967100 words of memory out of 5000000
+ 53081 multiletter control sequences out of 15000+600000
+ 563298 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,10n,93p,1343b,6183s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on ProposalTA.pdf (49 pages).
+Output written on ProposalTA.pdf (52 pages).

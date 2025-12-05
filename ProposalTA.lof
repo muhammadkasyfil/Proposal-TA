@@ -90,7 +90,8 @@
 \babel@toc {indonesian}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {IV.1}{\ignorespaces Diagram alir eksekusi \textit {dropper spyware} mode \textit {stealth}}}{33}{figure.caption.11}%
+\contentsline {figure}{\numberline {IV.1}{\ignorespaces Alur Deteksi Anti-Malware Sebelum (Before)}}{29}{figure.caption.9}%
+\contentsline {figure}{\numberline {IV.2}{\ignorespaces Alur Eksekusi Dropper Spyware Mode Stealth (After)}}{30}{figure.caption.10}%
 \addvspace {10\p@ }
 \babel@toc {english}{}\relax 
 \babel@toc {indonesian}{}\relax 
