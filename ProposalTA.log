@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.10.25)  5 DEC 2025 17:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.10.25)  5 DEC 2025 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1536,7 +1536,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
-\TU/TimesNewRoman(0)/m/n/12 6+ produk \TU/TimesNewRoman(0)/m/it/12 anti-
+\TU/TimesNewRoman(0)/m/n/12 3+ produk \TU/TimesNewRoman(0)/m/it/12 anti-
  []
 
 
@@ -2594,12 +2594,12 @@ Package logreq Info: Writing requests to 'ProposalTA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31330 strings out of 409617
- 613874 string characters out of 5774012
- 1965784 words of memory out of 5000000
- 53090 multiletter control sequences out of 15000+600000
+ 31334 strings out of 409617
+ 613929 string characters out of 5774012
+ 1965777 words of memory out of 5000000
+ 53094 multiletter control sequences out of 15000+600000
  563282 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 79i,9n,93p,1317b,6183s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,9n,93p,1317b,6188s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on ProposalTA.pdf (51 pages).

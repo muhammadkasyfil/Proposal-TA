@@ -184,6 +184,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{author}
+      \field{journaltitle}{International Journal of Intelligent Systems and Applications in Engineering}
       \field{title}{A Comprehensive Analysis of Pegasus Spyware and Its Implications for Digital Privacy and Security}
       \field{year}{2024}
     \endentry
@@ -336,6 +337,15 @@
       \field{title}{A Review on Spyware Creation and Detection}
       \field{volume}{13}
       \field{year}{2024}
+      \verb{doi}
+      \verb 10.17577/IJERTV13IS030140
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.17577/IJERTV13IS030140
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.17577/IJERTV13IS030140
+      \endverb
     \endentry
     \entry{sudhakar2020}{article}{}
       \name{author}{2}{}{%
@@ -369,6 +379,15 @@
       \field{title}{An Emerging Threat: Fileless Malware - A Survey and Research Challenges}
       \field{volume}{3}
       \field{year}{2020}
+      \verb{doi}
+      \verb 10.1186/s42400-019-0043-x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s42400-019-0043-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s42400-019-0043-x
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
